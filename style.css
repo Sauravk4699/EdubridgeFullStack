@@ -1,0 +1,16 @@
+/** @format */
+.header {
+  text-align: center;
+}
+.row1 {
+  display: flex;
+}
+
+.col1 {
+  padding: 10px;
+}
+
+.col2 {
+  padding: 10px;
+}
+
